@@ -13,7 +13,7 @@ These can be installed by navigating to the python scripts folder located at
 
 Only two commands must be run in the command prompt:
 
-```pip3 install BeautifulSoup4```
+```pip3 install beautifulsoup4```
 
 ```pip3 install praw```
 
