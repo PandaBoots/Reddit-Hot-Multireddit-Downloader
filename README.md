@@ -21,7 +21,7 @@ After those are installed you are almost ready to run the script
 
 ## Reddit API Keys
 
-Reddit API keys must be created to scrape the pages of each subreddit. This can very easily [here](https://old.reddit.com/prefs/apps)
+Reddit API keys must be created to scrape the pages of each subreddit. This can very easily be done [here](https://old.reddit.com/prefs/apps)
 
 [This is where the API details will be found](https://i.imgur.com/gR2cLyO.png)
 
