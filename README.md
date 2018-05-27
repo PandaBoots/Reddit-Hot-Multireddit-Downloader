@@ -5,8 +5,6 @@ Downloads the first Nth amount of posts from a provided subreddit or multireddit
 
 This project uses python 3.6 which can be downloaded at the bottom of the page [here](https://www.python.org/downloads/release/python-365/)
 
-python 3.7 can probably be used but it has not been tested. 
-
 In order to use this script two additional modules muse be installed from ```dependencies.txt``` which as BeautifulSoup4 and Praw.
 
 These can be installed by navigating to the python scripts folder located at 
